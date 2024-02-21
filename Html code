@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TO DO List</title>
+    <link rel="stylesheet" type="text/css" href="L2T3todoapp.css" />
+  </head>
+  <body>
+    <div class="containar">
+      <div class="box">
+        <h2>To Do List</h2>
+        <input type="text" placeholder="Write here..." id="inputBx" />
+        <ul id="list"></ul>
+      </div>
+    </div>
+
+    <script src="L2T3todoapp.js"></script>
+  </body>
+</html>
